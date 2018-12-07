@@ -6,3 +6,4 @@ add a third line.
 my boss is stupid.
 my boss is not stupid any more.
 Creating a new branch is quick and simple.
+minor modification for branch dev.
