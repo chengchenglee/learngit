@@ -4,3 +4,4 @@ add a new line.
 add a second line.
 add a third line.
 my boss is stupid.
+my boss is not stupid any more.
