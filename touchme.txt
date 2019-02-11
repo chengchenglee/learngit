@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-touch me please!
-=======
-touchme please!
-do not touch me!
->>>>>>> c9d8ffbc13e934da0457df789aa148a2ca5706a6
